@@ -2,7 +2,7 @@
 I created this website to showcase my talents and ambitions
 On the website you will find my CV. 
 
-## My CV is made up out of the following sections:
+# My CV is made up out of the following sections:
 # About Me
 # My Skills 
 # Projects
