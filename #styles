@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    body{
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #fff0f5;
+        padding-bottom: 50px;
+    }
+
+    header{
+        background-color: #fff0f5;
+        color: white;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    header h1{
+        margin: 0;
+    }
+
+    header p{
+        font-size: 1,2em;
+        margin-top: 5PX;
+    }
+
+    profile-photo{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display: round;
+        margin: 10px auto;
+    }
+
+    section{
+        padding: 20px;
+        margin: 20px;
+        background-color: #fff0f5;
+        border-radius: 8px;
+        box-shadow: 0 2px rgba(0, 0, 0, 0.1);
+    }
+
+    h2{
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    ul{
+        list-style: none;
+        padding: 0;
+    }
+
+    ul li{
+        margin: 5px 0;
+        display: flex;
+        align-items: center;
+    }
+
+    .skill-icon{
+        width: 18px;
+        height: 18px;
+        margin-right: 10px;
+    }
+
+    .contact a{
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+    }
+
+    .contact a:hover{
+        color:#007BBF;
+    }
+
+    footer{
+        text-align: center;
+        padding: 10px;
+        background: #fff0f5;
+        color: white;
+        position:relative;
+        width: 100%;
+        bottom:0;
+    }
