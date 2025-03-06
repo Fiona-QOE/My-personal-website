@@ -11,4 +11,4 @@ On the website you will find my CV.
 - Contact Information
 
 This is the link to access my GitHub page for easy navigation
-...???///
+https://github.com/Fiona-QOE/My-personal-website.git
