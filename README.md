@@ -5,10 +5,10 @@ On the website you will find my CV.
 # My CV is made up out of the following sections:
 - About Me
 - My Skills 
-- Projects
+- Previous Work Experience within Capitec Bank
+- My Qualifications
+- Projects &
 - Contact Information
-- Previous Work Experience 
-- and My Qualifications
 
 This is the link to access my GitHub page for easy navigation
 ...???///
